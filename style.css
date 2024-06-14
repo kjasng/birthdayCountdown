@@ -15,6 +15,7 @@
     gap: 32px;
     flex-direction: column;
     background-size: cover;
+    background-position: center;
 }
 
 .heading-title {
