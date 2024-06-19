@@ -1,4 +1,4 @@
-let KikiBirthday = new Date("June 20, 2024 00:00:00").getTime();
+let KikiBirthday = new Date("December 19, 2024 00:00:00").getTime();
 
 let countDown = setInterval(function() {
 
